@@ -41,7 +41,7 @@ Animate.css is licensed under the [Hippocratic License](http://firstdonoharm.dev
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [animate@eltonmesquita.com](mailto:animate@eltonmesquita.com).
+This project and everyone sparticipating in it is governed by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [animate@eltonmesquita.com](mailto:animate@eltonmesquita.com).
 
 ## Contributing
 
